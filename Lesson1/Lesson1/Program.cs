@@ -16,6 +16,7 @@ namespace Lesson1
             Console.WriteLine("Rinutsya is :" + rizn);
             int dob = i1*i2;
             Console.WriteLine("Dobutok is :" + dob);
+
             float chas = i1 / (float)i2;
             Console.WriteLine("Chastko is :" + chas);
            
