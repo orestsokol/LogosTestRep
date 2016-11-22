@@ -1,0 +1,5 @@
+D:\Orest Sokol\LogosTestRep\Homework2\bin\Debug\Homework2.exe.config
+D:\Orest Sokol\LogosTestRep\Homework2\bin\Debug\Homework2.exe
+D:\Orest Sokol\LogosTestRep\Homework2\bin\Debug\Homework2.pdb
+D:\Orest Sokol\LogosTestRep\Homework2\obj\Debug\Homework2.exe
+D:\Orest Sokol\LogosTestRep\Homework2\obj\Debug\Homework2.pdb

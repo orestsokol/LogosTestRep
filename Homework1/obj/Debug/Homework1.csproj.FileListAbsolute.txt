@@ -1,0 +1,6 @@
+D:\Orest Sokol\LogosTestRep\Homework1\bin\Debug\Homework1.exe.config
+D:\Orest Sokol\LogosTestRep\Homework1\bin\Debug\Homework1.exe
+D:\Orest Sokol\LogosTestRep\Homework1\bin\Debug\Homework1.pdb
+D:\Orest Sokol\LogosTestRep\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+D:\Orest Sokol\LogosTestRep\Homework1\obj\Debug\Homework1.exe
+D:\Orest Sokol\LogosTestRep\Homework1\obj\Debug\Homework1.pdb
