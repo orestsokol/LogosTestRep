@@ -1,0 +1,6 @@
+D:\Orest Sokol\LogosTestRep\Diagonal\bin\Debug\Diagonal.exe.config
+D:\Orest Sokol\LogosTestRep\Diagonal\bin\Debug\Diagonal.exe
+D:\Orest Sokol\LogosTestRep\Diagonal\bin\Debug\Diagonal.pdb
+D:\Orest Sokol\LogosTestRep\Diagonal\obj\Debug\Diagonal.csprojResolveAssemblyReference.cache
+D:\Orest Sokol\LogosTestRep\Diagonal\obj\Debug\Diagonal.exe
+D:\Orest Sokol\LogosTestRep\Diagonal\obj\Debug\Diagonal.pdb

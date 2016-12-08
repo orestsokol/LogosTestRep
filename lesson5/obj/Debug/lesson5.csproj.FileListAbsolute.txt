@@ -1,0 +1,6 @@
+D:\Orest Sokol\LogosTestRep\lesson5\bin\Debug\lesson5.exe.config
+D:\Orest Sokol\LogosTestRep\lesson5\obj\Debug\lesson5.csprojResolveAssemblyReference.cache
+D:\Orest Sokol\LogosTestRep\lesson5\bin\Debug\lesson5.exe
+D:\Orest Sokol\LogosTestRep\lesson5\bin\Debug\lesson5.pdb
+D:\Orest Sokol\LogosTestRep\lesson5\obj\Debug\lesson5.exe
+D:\Orest Sokol\LogosTestRep\lesson5\obj\Debug\lesson5.pdb

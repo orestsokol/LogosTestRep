@@ -1,0 +1,6 @@
+D:\Orest Sokol\LogosTestRep\Homework_Taxi\bin\Debug\Homework_Taxi.exe.config
+D:\Orest Sokol\LogosTestRep\Homework_Taxi\bin\Debug\Homework_Taxi.exe
+D:\Orest Sokol\LogosTestRep\Homework_Taxi\bin\Debug\Homework_Taxi.pdb
+D:\Orest Sokol\LogosTestRep\Homework_Taxi\obj\Debug\Homework_Taxi.csprojResolveAssemblyReference.cache
+D:\Orest Sokol\LogosTestRep\Homework_Taxi\obj\Debug\Homework_Taxi.exe
+D:\Orest Sokol\LogosTestRep\Homework_Taxi\obj\Debug\Homework_Taxi.pdb

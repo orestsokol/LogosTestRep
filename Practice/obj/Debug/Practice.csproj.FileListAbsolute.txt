@@ -1,0 +1,6 @@
+D:\Orest Sokol\LogosTestRep\Practice\bin\Debug\Practice.exe.config
+D:\Orest Sokol\LogosTestRep\Practice\bin\Debug\Practice.exe
+D:\Orest Sokol\LogosTestRep\Practice\bin\Debug\Practice.pdb
+D:\Orest Sokol\LogosTestRep\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+D:\Orest Sokol\LogosTestRep\Practice\obj\Debug\Practice.exe
+D:\Orest Sokol\LogosTestRep\Practice\obj\Debug\Practice.pdb
