@@ -33,7 +33,7 @@ namespace Diagonal
             int decr = arrSize-1;
             for (int i = 0; i < arrSize; i++)
             {
-                for (int j = decr; j > 0; j--)
+                for (int j = decr; j >= 0; j--)
                 {
                     decr--;
                     difDiagonalSum += arr[i, j];
