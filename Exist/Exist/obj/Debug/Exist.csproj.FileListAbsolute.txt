@@ -1,0 +1,6 @@
+D:\study\LogosTestRep\LogosTestRep\Exist\Exist\bin\Debug\Exist.exe.config
+D:\study\LogosTestRep\LogosTestRep\Exist\Exist\obj\Debug\Exist.csprojResolveAssemblyReference.cache
+D:\study\LogosTestRep\LogosTestRep\Exist\Exist\bin\Debug\Exist.exe
+D:\study\LogosTestRep\LogosTestRep\Exist\Exist\bin\Debug\Exist.pdb
+D:\study\LogosTestRep\LogosTestRep\Exist\Exist\obj\Debug\Exist.exe
+D:\study\LogosTestRep\LogosTestRep\Exist\Exist\obj\Debug\Exist.pdb

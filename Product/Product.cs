@@ -8,9 +8,10 @@ namespace Product
 {
     class Product
     {
-        public int id;
+        public string name;
+        public string category;
+        
         private float price;
-
         public float Price
         {
             get
@@ -21,19 +22,19 @@ namespace Product
             {
                 price = (int)value + 1f - 0.01f; 
             }
-
-            
         }
 
     
-        public Product(int mid, float mPrice  = 10.99f)
+        public Product(string pName, string pCategory, float pPrice = 10.99f)
         {
-            
+            name = pName;
+            category = pCategory;
+            Price = pPrice;
         }
 
         public void PrintGeneralInfo()
         {
-            Console.WriteLine("Id is : {0}? price is: {1}", id, price);
+            Console.WriteLine("Name: " + name + "\nCategory: " + category + "\nPrice" + price);
         }
      
     }
