@@ -4,3 +4,9 @@ D:\Orest Sokol\LogosTestRep\Product\bin\Debug\Product.exe
 D:\Orest Sokol\LogosTestRep\Product\bin\Debug\Product.pdb
 D:\Orest Sokol\LogosTestRep\Product\obj\Debug\Product.exe
 D:\Orest Sokol\LogosTestRep\Product\obj\Debug\Product.pdb
+D:\study\LogosTestRep\LogosTestRep\Product\bin\Debug\Product.exe.config
+D:\study\LogosTestRep\LogosTestRep\Product\obj\Debug\Product.exe
+D:\study\LogosTestRep\LogosTestRep\Product\obj\Debug\Product.pdb
+D:\study\LogosTestRep\LogosTestRep\Product\bin\Debug\Product.exe
+D:\study\LogosTestRep\LogosTestRep\Product\bin\Debug\Product.pdb
+D:\study\LogosTestRep\LogosTestRep\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache

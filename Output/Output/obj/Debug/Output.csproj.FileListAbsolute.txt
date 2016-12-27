@@ -1,0 +1,6 @@
+D:\study\LogosTestRep\LogosTestRep\Output\Output\bin\Debug\Output.exe.config
+D:\study\LogosTestRep\LogosTestRep\Output\Output\bin\Debug\Output.exe
+D:\study\LogosTestRep\LogosTestRep\Output\Output\bin\Debug\Output.pdb
+D:\study\LogosTestRep\LogosTestRep\Output\Output\obj\Debug\Output.csprojResolveAssemblyReference.cache
+D:\study\LogosTestRep\LogosTestRep\Output\Output\obj\Debug\Output.exe
+D:\study\LogosTestRep\LogosTestRep\Output\Output\obj\Debug\Output.pdb

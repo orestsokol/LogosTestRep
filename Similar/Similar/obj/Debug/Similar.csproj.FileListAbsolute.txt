@@ -1,0 +1,6 @@
+D:\study\LogosTestRep\LogosTestRep\Similar\Similar\bin\Debug\Similar.exe.config
+D:\study\LogosTestRep\LogosTestRep\Similar\Similar\bin\Debug\Similar.exe
+D:\study\LogosTestRep\LogosTestRep\Similar\Similar\bin\Debug\Similar.pdb
+D:\study\LogosTestRep\LogosTestRep\Similar\Similar\obj\Debug\Similar.csprojResolveAssemblyReference.cache
+D:\study\LogosTestRep\LogosTestRep\Similar\Similar\obj\Debug\Similar.exe
+D:\study\LogosTestRep\LogosTestRep\Similar\Similar\obj\Debug\Similar.pdb

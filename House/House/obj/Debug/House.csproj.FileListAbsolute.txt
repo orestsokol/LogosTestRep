@@ -1,0 +1,6 @@
+D:\study\LogosTestRep\LogosTestRep\House\House\bin\Debug\House.exe.config
+D:\study\LogosTestRep\LogosTestRep\House\House\bin\Debug\House.exe
+D:\study\LogosTestRep\LogosTestRep\House\House\bin\Debug\House.pdb
+D:\study\LogosTestRep\LogosTestRep\House\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+D:\study\LogosTestRep\LogosTestRep\House\House\obj\Debug\House.exe
+D:\study\LogosTestRep\LogosTestRep\House\House\obj\Debug\House.pdb
