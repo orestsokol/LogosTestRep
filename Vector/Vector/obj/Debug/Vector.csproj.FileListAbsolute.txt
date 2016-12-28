@@ -1,0 +1,5 @@
+D:\study\LogosTestRep\LogosTestRep\Vector\Vector\bin\Debug\Vector.exe.config
+D:\study\LogosTestRep\LogosTestRep\Vector\Vector\bin\Debug\Vector.exe
+D:\study\LogosTestRep\LogosTestRep\Vector\Vector\bin\Debug\Vector.pdb
+D:\study\LogosTestRep\LogosTestRep\Vector\Vector\obj\Debug\Vector.exe
+D:\study\LogosTestRep\LogosTestRep\Vector\Vector\obj\Debug\Vector.pdb

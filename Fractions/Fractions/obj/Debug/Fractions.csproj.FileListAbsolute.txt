@@ -1,0 +1,2 @@
+D:\study\LogosTestRep\LogosTestRep\Fractions\Fractions\bin\Debug\Fractions.exe.config
+D:\study\LogosTestRep\LogosTestRep\Fractions\Fractions\obj\Debug\Fractions.csprojResolveAssemblyReference.cache
