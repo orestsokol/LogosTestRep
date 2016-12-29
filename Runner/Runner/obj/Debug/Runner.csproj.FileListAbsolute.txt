@@ -1,1 +1,2 @@
 D:\study\LogosTestRep\LogosTestRep\Runner\Runner\bin\Debug\Runner.exe.config
+D:\Orest Sokol\LogosTestRep\Runner\Runner\bin\Debug\Runner.exe.config

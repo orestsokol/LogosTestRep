@@ -1,0 +1,6 @@
+D:\Orest Sokol\LogosTestRep\Error\bin\Debug\Error.exe.config
+D:\Orest Sokol\LogosTestRep\Error\bin\Debug\Error.exe
+D:\Orest Sokol\LogosTestRep\Error\bin\Debug\Error.pdb
+D:\Orest Sokol\LogosTestRep\Error\obj\Debug\Error.csprojResolveAssemblyReference.cache
+D:\Orest Sokol\LogosTestRep\Error\obj\Debug\Error.exe
+D:\Orest Sokol\LogosTestRep\Error\obj\Debug\Error.pdb
