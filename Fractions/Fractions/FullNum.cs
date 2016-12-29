@@ -12,7 +12,7 @@ namespace Fractions
 
         public FullNum(int fullNum)
         {
-            fullNum = num;
+            num = fullNum;
         }
     }
 }

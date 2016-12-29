@@ -45,10 +45,11 @@ namespace Fractions
                 m = value;
             }
         }
- 
-        public Fraction(float fN)
+
+        public Fraction(int fInt = 0, float fFloat = 0):base(fInt)
         {
-            FullNum = fN;
+            n = fInt;
+            m = fFloat;
         }
 
         public float Add(float fN, float fM)
@@ -56,9 +57,9 @@ namespace Fractions
             float result = 0;
             int resultInt = 0;
             int fNPart1 = (int)fN;
-            float fNPart2 = (int)fN - fN;
+            float fNPart2 = fN- fNPart1;
             int fMPart1 = (int)fM;
-            float fMPart2 = (int)fM - fM;
+            float fMPart2 =fM - fMPart1;
 
             result = fNPart2 + fMPart2;
              if(result > 1)
@@ -77,18 +78,21 @@ namespace Fractions
             float result = 0;
             int resultInt = 0;
             int fNPart1 = (int)fN;
-            float fNPart2 = (int)fN - fN;
+            float fNPart2 = fN - fNPart1;
             int fMPart1 = (int)fM;
-            float fMPart2 = (int)fM - fM;
+            float fMPart2 = fM - fMPart1;
 
-            result = fNPart2 + fMPart2;
-            if (result > 1)
+            result = fNPart2 / fMPart2;
+            if (result >= 1)
             {
                 resultInt += 1;
                 result -= 1;
             }
+            if (resultInt == 1)
+                return fMPart1;
+            else
+                resultInt += fNPart1 / fMPart1;
 
-            resultInt = fNPart1 + fMPart1;
             result += resultInt;
             return result;
         }
@@ -98,9 +102,9 @@ namespace Fractions
             float result = 0;
             int resultInt = 0;
             int fNPart1 = (int)fN;
-            float fNPart2 = (int)fN - fN;
+            float fNPart2 = fN - fNPart1;
             int fMPart1 = (int)fM;
-            float fMPart2 = (int)fM - fM;
+            float fMPart2 = fM - fMPart1;
 
             result = fNPart2 * fMPart2;
             if (result > 1)
@@ -121,7 +125,7 @@ namespace Fractions
                 result = true;
             else if(fM > fN)
                 result = true;
-            else (fM == fN)
+            else
                 result = false;
 
             return result;

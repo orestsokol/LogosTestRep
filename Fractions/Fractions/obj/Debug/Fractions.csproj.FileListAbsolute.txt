@@ -1,3 +1,8 @@
 D:\study\LogosTestRep\LogosTestRep\Fractions\Fractions\bin\Debug\Fractions.exe.config
 D:\study\LogosTestRep\LogosTestRep\Fractions\Fractions\obj\Debug\Fractions.csprojResolveAssemblyReference.cache
 D:\Orest Sokol\LogosTestRep\Fractions\Fractions\bin\Debug\Fractions.exe.config
+D:\Orest Sokol\LogosTestRep\Fractions\Fractions\obj\Debug\Fractions.csprojResolveAssemblyReference.cache
+D:\Orest Sokol\LogosTestRep\Fractions\Fractions\bin\Debug\Fractions.exe
+D:\Orest Sokol\LogosTestRep\Fractions\Fractions\bin\Debug\Fractions.pdb
+D:\Orest Sokol\LogosTestRep\Fractions\Fractions\obj\Debug\Fractions.exe
+D:\Orest Sokol\LogosTestRep\Fractions\Fractions\obj\Debug\Fractions.pdb

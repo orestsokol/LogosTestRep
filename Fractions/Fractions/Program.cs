@@ -10,6 +10,11 @@ namespace Fractions
     {
         static void Main(string[] args)
         {
+            Fraction frac = new Fraction();
+            Console.WriteLine(frac.Add(1.5f, 1.5f));
+            Console.WriteLine(frac.Divide(1.5f, 1.5f));
+            Console.WriteLine(frac.Compare(1.5f, 1.5f));
+            Console.WriteLine(frac.Multiply(1.5f, 1.5f));
         }
     }
 }
