@@ -1,0 +1,6 @@
+D:\Orest Sokol\LogosTestRep\Kontr\bin\Debug\Kontr.exe.config
+D:\Orest Sokol\LogosTestRep\Kontr\bin\Debug\Kontr.exe
+D:\Orest Sokol\LogosTestRep\Kontr\bin\Debug\Kontr.pdb
+D:\Orest Sokol\LogosTestRep\Kontr\obj\Debug\Kontr.csprojResolveAssemblyReference.cache
+D:\Orest Sokol\LogosTestRep\Kontr\obj\Debug\Kontr.exe
+D:\Orest Sokol\LogosTestRep\Kontr\obj\Debug\Kontr.pdb
