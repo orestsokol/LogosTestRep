@@ -1,0 +1,5 @@
+D:\study\LogosTestRep\LogosTestRep\Simetric\Simetric\bin\Debug\Simetric.exe.config
+D:\study\LogosTestRep\LogosTestRep\Simetric\Simetric\bin\Debug\Simetric.exe
+D:\study\LogosTestRep\LogosTestRep\Simetric\Simetric\bin\Debug\Simetric.pdb
+D:\study\LogosTestRep\LogosTestRep\Simetric\Simetric\obj\Debug\Simetric.exe
+D:\study\LogosTestRep\LogosTestRep\Simetric\Simetric\obj\Debug\Simetric.pdb
